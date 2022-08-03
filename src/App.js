@@ -18,7 +18,7 @@ class App extends Component {
           <span className="navbar-toggler-icon"></span>
         </button>
 
-        <a className="navbar-brand" href="index.html">Jessica Schilling</a>
+        <a className="navbar-brand" href="/">Jessica Schilling</a>
         <div className="collapse navbar-collapse justify-content-md-end" id="navigationBar">
           <ul className="navbar-nav">
             <li className="nav-item"><a className="nav-link" href="#about">About</a></li>
