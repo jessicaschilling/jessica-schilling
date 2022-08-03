@@ -176,7 +176,7 @@
         $(this).addClass('active');
 
         var data = $(this).attr('data-filter');
-        $grid.isotope({
+        $(".grid").isotope({
           filter: data
         })
       });
