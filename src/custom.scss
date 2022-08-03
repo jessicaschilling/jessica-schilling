@@ -62,7 +62,7 @@ ul {
 }
 
 .parent-nav-link-padding {
-	padding: 20px 20px 15px 20px !important;
+	padding: 25px 10px 15px 10px !important;
 }
 
 .site-navbar {
@@ -166,7 +166,7 @@ ul {
 			background: $white !important;
 		}
 		&.sleep {
-			transform: translateY(-90%);
+			transform: translateY(-100%) translateY(6px);
 			background: $primary !important;
 		}
 		.navbar-brand {

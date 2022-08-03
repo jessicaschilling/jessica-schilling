@@ -11,7 +11,7 @@ class App extends Component {
     return (
 
       <div>
-      <nav className="navbar navbar-expand-lg site-navbar navbar-light bg-light" id="pb-navbar">
+      <nav className="navbar navbar-expand-md site-navbar navbar-light bg-light" id="pb-navbar">
 
       <div className="container">
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigationBar" aria-controls="navigationBar" aria-expanded="false" aria-label="Toggle navigation">
@@ -23,7 +23,7 @@ class App extends Component {
           <ul className="navbar-nav">
             <li className="nav-item"><a className="nav-link" href="#about">About</a></li>
             <li className="nav-item"><a className="nav-link" href="#services">Services</a></li>
-            <li className="nav-item"><a className="nav-link" href="#portfolio">Portfolio</a></li>
+            <li className="nav-item"><a className="nav-link" href="#work">Work</a></li>
             <li className="nav-item"><a className="nav-link" href="#dj">DJ</a></li>
             <li className="nav-item"><a className="nav-link" href="#contact">Contact</a></li>
           </ul>
@@ -145,11 +145,11 @@ class App extends Component {
       </div>
     </section>
 
-    <section className="site-section" id="portfolio">
+    <section className="site-section" id="work">
       <div className="container">
         <div className="row">
           <div className="section-heading text-center col-md-12">
-              <h2>Selected <strong>portfolio</strong></h2>
+              <h2>Selected <strong>work</strong></h2>
             </div>
         </div>
         <div className="filters">
@@ -164,7 +164,7 @@ class App extends Component {
 
         <div className="filters-content">
             <div className="row grid">
-{/*
+
             <div className="single-portfolio col-sm-4 all strategy design code testing">
               <div className="relative">
                 <div className="thumb">
@@ -188,12 +188,12 @@ class App extends Component {
                   <div className="modal-image"><img className="image img-fluid" src="img/port-detail-certainly.png" alt="Certainly Insurance"/></div>
                   <div className="modal-body">
                     <h5>Strategy, design, code and testing</h5>
-                    <p>As design director for a new online-only insurance brand powered by a major player in the legacy insurance market, my role in the development and release of <a href="https://www.getcertainly" target="_blank" rel="noopener noreferrer">Certainly insurance</a> has run the gamut of user experience work &mdash; everything from creating a design system from scratch to directly implementing it in code; from conducting competitive analysis to incorporating those learnings into architecture and flows; and much more. As the Certainly product continues to grow, so does the design scope, making it essential to establish clean working methods suitable for simultaneous work by multiple team members and transparent workflows for documentation &mdash; beginning with initial concept validation and focus group work all the way through to responsibly maintaining post-release backlogs for new features and tweaks.</p>
+                    <p>As design lead for a new online-only insurance brand powered by a major player in the industry, my role in the development and release of <a href="https://www.getcertainly" target="_blank" rel="noopener noreferrer">Certainly insurance</a> ran the gamut of user experience work &mdash; everything from creating a design system from scratch to directly implementing it in code; from conducting competitive analysis to incorporating those learnings into architecture and flows; and much more. As the Certainly product expanded past initial launch, so did the design scope, making it essential to establish clean working methods suitable for simultaneous work by multiple team members and transparent workflows for documentation &mdash; beginning with initial concept validation and focus group work all the way through to responsibly maintaining post-release backlogs for new features and tweaks.</p>
                   </div>
                 </div>
               </div>
             </div>
-*/}
+
             <div className="single-portfolio col-sm-4 all strategy design">
               <div className="relative">
                 <div className="thumb">
