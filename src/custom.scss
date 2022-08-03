@@ -2,7 +2,7 @@
 $primary: #c19736 !default;
 
 // Import Bootstrap and its default variables
-@import "../node_modules/bootstrap/scss/bootstrap";
+@import '~bootstrap/scss/bootstrap.scss';
 
 // Custom styles
 body {

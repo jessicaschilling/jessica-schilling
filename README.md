@@ -7,6 +7,6 @@
 
 Single-page personal portfolio site for Jessica Schilling (that's me) bootstrapped from [Create React App](https://github.com/facebook/create-react-app). You can learn more about me and what I do by, well, [visiting the site](https://www.jessicaschilling.com).
 
-It's deployed using [Netlify](https://jessicaschilling.netlify.com).
+The main jessicaschilling.com URL is hosted through a third party, but for redundancy, there's a "pre-prod" deployment via [Netlify](https://jessicaschilling.netlify.com).
 
 *Disclaimer: Most of this site was bashed together on a train from Boston to NYC a few years ago, so the code ain't terribly pretty, but it gets the job done. As the old adage goes, all the best designers have terrible portfolio sites, because they're too busy designing stuff to work on their portfolio sites.*
