@@ -152,7 +152,7 @@ class App extends Component {
               <h2>Selected <strong>work</strong></h2>
             </div>
         </div>
-        <div className="filters">
+        {/* <div className="filters">
             <ul>
                 <li className="active" data-filter="*">All</li>
                 <li data-filter=".code">Code</li>
@@ -160,9 +160,9 @@ class App extends Component {
                 <li data-filter=".testing">Testing</li>
                 <li data-filter=".strategy">Strategy</li>
             </ul>
-        </div>
+        </div> */}
 
-        <div className="filters-content">
+        <div className="filters-content mt-3">
             <div className="row grid">
 
             <div className="single-portfolio col-sm-4 all strategy design code testing">
