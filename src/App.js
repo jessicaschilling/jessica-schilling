@@ -57,7 +57,7 @@ class App extends Component {
             </div>
             <p className="lead">Based in Boulder, CO, I'm a user experience strategist, product designer and information architect with a proven track record in both strategic and tactical execution for companies ranging from small startups to multinational corporations.</p>
             <p>
-              <a href="jessica-schilling.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-primary px-4 py-2 btn-sm smoothscroll">View my r&eacute;sum&eacute;</a>
+              <a href="http://jessicaschilling.com/jessica-schilling.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-primary px-4 py-2 btn-sm smoothscroll">View my r&eacute;sum&eacute;</a>
             </p>
           </div>
         </div>
