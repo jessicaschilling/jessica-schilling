@@ -514,7 +514,7 @@ class App extends Component {
               <h2>I also <strong>play music for people.</strong></h2>
             </div>
             <p className="lead">I'm a versatile broadcast and event DJ (appearing as <a href="http://www.irisberkeley.com" target="_blank" rel="noopener noreferrer">Iris Berkeley</a>) with experience across a wide range of formats &mdash; everything from house to funk to lounge to jazz to freeform radio. In 2022, I was voted Reader's Choice for Denver <a href="https://www.westword.com/best-of/2022" target="_blank" rel="noopener noreferrer">Westword</a>'s Best Radio DJ.</p>
-            <p className="lead">From 2010-2021, I also played traditional and alternative Argentine tango music for festivals, marathons, encuentros and milongas worldwide &mdash; reflected today in the programming on my online tango station <a href="http://www.radiotanda.com" target="_blank" rel="noopener noreferrer">Radio Tanda</a> and a special compilation on <a href="https://www.danzaymovimiento.com/index.php/en/component/yendifmusicshare/album/14554?idU=1" target="_blank" rel="noopener noreferrer">Danza y Movimiento</a>.</p>
+            <p className="lead">From 2010-2021, I also played traditional and alternative Argentine tango music for festivals, marathons, encuentros and milongas worldwide.</p>
             <p>
               <a href="mailto:mail@jessicaschilling.com?subject=DJ booking enquiry" className="btn btn-primary px-4 py-2 smoothscroll">Booking</a>
             </p>
