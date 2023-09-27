@@ -627,7 +627,7 @@ class App extends Component {
       </div>
     </section> */}
 
-    <section className="site-section bg-light" id="contact">
+    <section className="site-section" id="contact">
       <div className="container">
         <div className="row">
           <div className="col-md-12 mb-4">
@@ -664,17 +664,13 @@ class App extends Component {
                 <span className="text-uppercase">GitHub</span>
                 <a href="https://www.github.com/jessicaschilling" target="_blank" rel="noopener noreferrer">@jessicaschilling</a>
               </li>
-              <li>
-                <span className="text-uppercase">Twitter</span>
-                <a href="https://twitter.com/dzesika" target="_blank" rel="noopener noreferrer">@dzesika</a>
-              </li>
             </ul>
           </div>
         </div>
       </div>
     </section>
 
-    <footer className="site-footer">
+    <footer className="site-footer bg-light">
       <div className="container">
             <p className="text-center">
             &copy;{this.getYear()} Jessica Schilling. All rights reserved.
