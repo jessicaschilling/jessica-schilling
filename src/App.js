@@ -625,7 +625,7 @@ class App extends Component {
 
         </div>
       </div>
-    </section>
+    </section> */}
 
     <section className="site-section bg-light" id="contact">
       <div className="container">
@@ -672,7 +672,7 @@ class App extends Component {
           </div>
         </div>
       </div>
-    </section> */}
+    </section>
 
     <footer className="site-footer">
       <div className="container">
