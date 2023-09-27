@@ -24,7 +24,6 @@ class App extends Component {
             <li className="nav-item"><a className="nav-link" href="#about">About</a></li>
             <li className="nav-item"><a className="nav-link" href="#services">Services</a></li>
             <li className="nav-item"><a className="nav-link" href="#work">Work</a></li>
-            <li className="nav-item"><a className="nav-link" href="#dj">DJ</a></li>
             <li className="nav-item"><a className="nav-link" href="#contact">Contact</a></li>
           </ul>
         </div>
@@ -37,8 +36,8 @@ class App extends Component {
       <div className="container">
         <div className="row intro-text align-items-center justify-content-center">
           <div className="col text-center">
-            <h1 className="site-heading site-animate">Design strategist, UX practitioner, information architect, DJ.</h1>
-            <h2 className="site-subheading mb-4 site-animate">Product strategy, end-to-end user experience, front-end development, and holistic design. Sometimes I play music for people, too. </h2>
+            <h1 className="site-heading site-animate">Design strategist, UX practitioner, information architect.</h1>
+            <h2 className="site-subheading mb-4 site-animate">Product strategy, end-to-end user experience, front-end development, and systems-driven holistic design. </h2>
           </div>
         </div>
       </div>
@@ -83,7 +82,7 @@ class App extends Component {
                 <span className="material-icons">map</span>
               </span>
               <h3 className="mb-4">User experience strategy</h3>
-              <p>Customer-focused, data-driven solutions drawing from nearly 20 years in UX, product design, marketing, editorial and more.</p>
+              <p>Customer-focused, data-driven solutions drawing from more than 20 years in UX, product design, marketing, editorial and more.</p>
               <div className="tools"><span className="material-icons">work_outline</span> Product roadmaps, design systems, competitive analysis, omnichannel strategy</div>
             </div>
           </div>
@@ -116,7 +115,7 @@ class App extends Component {
                 <span className="material-icons">visibility</span>
               </span>
               <h3 className="mb-4">Design thinking</h3>
-              <p>Successfully integrating design-driven best practices through coaching, side-by-side creation, and everything in between.</p>
+              <p>Successfully integrating data-driven best practices through coaching, side-by-side creation, and everything in between.</p>
               <div className="tools"><span className="material-icons">work_outline</span> Design sprints, co-creation sessions, executive training, train-the-trainers workshops</div>
             </div>
           </div>
@@ -503,7 +502,7 @@ class App extends Component {
       </div>
     </section>
 
-    <section className="site-section" id="dj">
+   {/* <section className="site-section" id="dj">
       <div className="container">
         <div className="row mb-4 align-items-center">
           <div className="col-lg-7 pr-lg-5 mb-4 mb-lg-0">
@@ -521,9 +520,9 @@ class App extends Component {
           </div>
         </div>
       </div>
-    </section>
+    </section> */}
 
-    <section className="site-section bg-light">
+   {/*  <section className="site-section bg-light">
       <div className="container">
         <div className="row">
           <div className="col-md-12 mb-4">
@@ -575,9 +574,9 @@ class App extends Component {
 
         </div>
       </div>
-    </section>
+    </section> */}
 
-    <section className="site-section pb-5">
+   {/*  <section className="site-section pb-5">
       <div className="container">
         <div className="row mb-4">
           <div className="col-md-12">
@@ -673,7 +672,7 @@ class App extends Component {
           </div>
         </div>
       </div>
-    </section>
+    </section> */}
 
     <footer className="site-footer">
       <div className="container">
