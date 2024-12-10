@@ -448,7 +448,7 @@ class App extends Component {
           </div>
           <div className="col-md-6">
           <div className="experience-item mb-4">
-              <span className="date"><span className="icon-calendar"></span> 2021-present</span>
+              <span className="date"><span className="icon-calendar"></span> 2021-2024</span>
               <h4>Lead product designer, strategy</h4>
               <p>Liberty Mutual</p>
             </div>
